@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Glauflavum
-- 👀 I’m interested in  aprender e aplicar cada vez mais sobre tecnologia
-- 🌱 I’m currently estudo  na facul e o curso que faço é analise e desenvolvimento de sistemas e defesa cibernética
-- 💞️ I’m looking to collaborate on  projetos de acessibilidade e sustentabilidade. Levanso a tecnologia a todos de uma forma sustentável
-- 📫 Faça uma visita ao meu perfil profissional ou pessoal por meio do instam  @devops.code ou @glauflavum
+<h1 align="center"> Oi tudo bem? </h1>
+
+![Gláucia Brito Santos](https://user-images.githubusercontent.com/90910612/159936502-f0ab0566-56a1-4add-8b96-393297423149.png)
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
+### Olá 👋 
+Sou estudante de análise e desenvolvimento de sistemas e defesa e cibernética procurando oportunidades e colaboração em projetos científicos e acadêmicos. 
+- 🔭 Atualmente estou trabalhando com desenvolvimento full-stack
+- 🌱 Também estou focada em aprender técnicas nocvas na minha área
+- 🤝 Estou procurando colaborar em projetos de desenvolvimento e aprendizado profundo.
+- 📫 Faça uma visita ao meu perfil no linkledin
 
 <!---
 Glauflavum/Glauflavum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
